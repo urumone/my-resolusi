@@ -1,6 +1,8 @@
 RENCANA KONTEN
 
 -Javascript
+*ES6
+*Fraework JavaScript
 -PHP Framework
 -Interwiew
 -Vlog

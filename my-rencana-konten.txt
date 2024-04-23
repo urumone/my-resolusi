@@ -5,6 +5,7 @@ RENCANA KONTEN
 *Fraework JavaScript
   ->Vue
   ->React
+  ->Angular
 -struktur data dasar
 -PHP Framework
   ->laravel

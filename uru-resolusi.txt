@@ -1,0 +1,5 @@
+hallo nama saya uru
+
+Resolusi Saya:
+- Membuat  website menggunakan framework tailwindcss
+- membuat website untuk gereja dan mengelolanya
